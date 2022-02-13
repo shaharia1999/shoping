@@ -81,3 +81,8 @@ document.getElementById("normal-phone -decrese").addEventListener("click",functi
     Subtotal();    
     
 });
+
+
+///////
+  const math= Math.floor(Math.random()*90000) +10000; ;
+  console.log(math);
